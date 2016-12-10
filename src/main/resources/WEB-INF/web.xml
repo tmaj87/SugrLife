@@ -18,7 +18,7 @@ http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
 
     <context-param>
         <param-name>contextConfigLocation</param-name>
-        <param-value>WEB-INF/sugarlife-service.xml</param-value>
+        <param-value>/WEB-INF/sugarlife-service.xml</param-value>
     </context-param>
 
     <listener>
